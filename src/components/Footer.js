@@ -43,7 +43,7 @@ function Footer() {
     {/* LeetCode Icon */}
     <li className="social-icons">
       <a
-        href=""
+        href="https://leetcode.com/u/Zaheer-Ahmed77/"
         style={{ color: "white" }}
         target="_blank"
         rel="noopener noreferrer"
